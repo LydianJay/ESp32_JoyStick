@@ -11,10 +11,10 @@
 #define JOY_PRESSED 0b00010000
 
 // INVERTED
-#define JOY_INV_UP JOY_DOWN
-#define JOY_INV_DOWN JOY_UP
-#define JOY_INV_LEFT JOY_RIGHT
-#define JOY_INV_RIGHT JOY_LEFT
+#define JOY_INV_UP      JOY_DOWN
+#define JOY_INV_DOWN    JOY_UP
+#define JOY_INV_LEFT    JOY_RIGHT
+#define JOY_INV_RIGHT   JOY_LEFT
 
 
 class JoyStick {
